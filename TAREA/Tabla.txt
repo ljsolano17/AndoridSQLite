@@ -1,0 +1,6 @@
+Producto
+id
+nombre
+precio
+stock
+descripcion
